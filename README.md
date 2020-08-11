@@ -1,10 +1,10 @@
 ### Hi there, I'm Cynthia 👋
 
-## I'm a Daughter, Student and Data Scientist!
-- 🔭 I’m currently working on Itau Unibanco as Data Scientist!
+## I'm a Student and Profissional in Data Science!
+- 🔭 I’m currently working on Itau Unibanco!
 - 🌱 I’m currently learning more about Machine learning, SQL Queries and Python 🤣
-- 🥅 2020 Goals: Learning more about Image Processing and Deep Learning
-- ⚡ Fun fact: I love pets and to eat fruits
+- 🥅 My Goals for 2020 is Learning more about Image Processing and Deep Learning
+- ⚡ Fun fact: I love pets and also love to eat lot of fruits
 
 ### Languages and Tools:
 
