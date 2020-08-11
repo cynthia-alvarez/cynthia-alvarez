@@ -1,4 +1,4 @@
-### Hi there, I'm Cynthia - aka [codeSTACKr][website] 👋
+### Hi there, I'm Cynthia 👋
 
 ## I'm a Daughter, Student and Data Scientist!
 - 🔭 I’m currently working on Itau Unibanco as Data Scientist!
