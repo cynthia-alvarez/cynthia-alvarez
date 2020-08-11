@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Linkedin Badge](https://img.shields.io/badge/-My%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lui-motta/)][linkedin]
+[![Github Badge](https://img.shields.io/badge/-My%20Personal%20Page-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucaslui)](https://lucaslui.github.io/personal-page/)
 
 <br />
 
