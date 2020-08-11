@@ -18,7 +18,7 @@
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-My%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lui-motta/)][linkedin]
-[![Github Badge](https://img.shields.io/badge/-My%20Personal%20Page-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucaslui)](https://lucaslui.github.io/personal-page/)
+[![Github Badge](https://img.shields.io/badge/-My%20Personal%20Page-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucaslui)][website]
 
-[website]: https://codeSTACKr.com
+[website]: https://cynthia-alvarez.github.io/personal-page/
 [linkedin]: https://www.linkedin.com/in/cynthia-estefania-alvarez-orbe/
