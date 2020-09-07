@@ -3,12 +3,12 @@
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 - I'm a Student and Profissional in Data Science!
-- I’m currently working on Itau Unibanco! <img src="https://media.giphy.com/media/UtE7grsP47XZv1V6Y1/giphy.gif" height="30">
+- I’m currently working on Itau Unibanco! <img src="https://media.giphy.com/media/h7S1Ppfg5YlDIBrMk5/giphy.gif" height="30">
 - I’m currently studying a master degree at UNICAMP! <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" height="30">
 - I’m currently learning more about Machine learning, SQL Queries and Python! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="30"> 
 - My Goals for 2020 is learning more about Image Processing and Deep Learning! <img src="https://media.giphy.com/media/bQSX8MFxnyqti/giphy.gif" height="30">
 
-## A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" height="50">
+## A little more about me... <img src="https://media.giphy.com/media/UtE7grsP47XZv1V6Y1/giphy.gif" height="50">
 
 - I love pets! <img src="https://media.giphy.com/media/f8nXruUBnxd5iyKPjc/giphy.gif" height="30">
 - I love to eat lot of fruits! <img src="https://media.giphy.com/media/lpsphcqutkFoDdabFc/giphy.gif" height="25"> 
