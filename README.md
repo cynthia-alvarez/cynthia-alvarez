@@ -1,11 +1,10 @@
-### Hi there, I'm Cynthia 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-
-## I'm a Student and Profissional in Data Science!
-- 🔭 I’m currently working on Itau Unibanco!
+### Hi there, I'm Cynthia <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+## I'm a Student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> and Profissional in Data Science!
+- 🔭 I’m currently working on Itau Unibanco!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 🌱 I’m currently learning more about Machine learning, SQL Queries and Python 🤣
 - 🥅 My Goals for 2020 is Learning more about Image Processing and Deep Learning
-- ⚡ Fun fact: I love pets and also love to eat lot of fruits
+- ⚡ Fun fact: I love pets and also love to eat lot of fruits <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ### Languages and Tools:
 
