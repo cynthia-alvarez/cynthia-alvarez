@@ -5,7 +5,7 @@
 - I'm a Student and Profissional in Data Science!
 - I’m currently working on Itau Unibanco! <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" height="30">
 - I’m currently studying a master degree at UNICAMP! <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" height="30">
-- I’m currently learning more about Machine learning, SQL Queries and Python! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="30"> 
+- I’m currently learning more about Machine learning <img src="https://media.giphy.com/media/ftqXa0YvhCehkzu0U5/giphy.gif" height="30">, SQL Queries and Python! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="30"> 
 - My Goals for 2020 is learning more about Image Processing and Deep Learning! <img src="https://media.giphy.com/media/bQSX8MFxnyqti/giphy.gif" height="30">
 
 ## A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" height="50">
