@@ -1,4 +1,5 @@
-### Hi there, I'm Cynthia 👋
+### Hi there, I'm Cynthia 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 ## I'm a Student and Profissional in Data Science!
 - 🔭 I’m currently working on Itau Unibanco!
