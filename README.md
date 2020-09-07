@@ -1,8 +1,6 @@
 <h2> Hi there, I'm Cynthia <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 <p>- I'm a Student and Profissional in Data Science! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </p>
-
-<h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... </h3>
 <p>- I’m currently studying a master degree at UNICAMP <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </p>
 <p>- I’m currently working on Itau Unibanco!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 <p>- I’m currently learning more about Machine learning, SQL Queries and Python 🤣 🌱</p>
