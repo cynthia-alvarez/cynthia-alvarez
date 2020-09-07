@@ -10,7 +10,7 @@
 
 ## A little more about me... <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-- I love pets! <img src="https://media.giphy.com/media/CjNrSgxuMomNpsI873/giphy.gif" height="30">
+- I love pets! <img src="https://media.giphy.com/media/LOWje9HPPesSLWllYM/giphy.gif" height="30">
 - I love to eat lot of fruits! <img src="https://media.giphy.com/media/lpsphcqutkFoDdabFc/giphy.gif" height="25"> 
 - I really like sleep! <img src="https://media.giphy.com/media/UtgtmYjXVF8eldodGH/giphy.gif" height="35">
 
