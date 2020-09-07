@@ -12,7 +12,7 @@
 
 - I love pets! <img src="https://media.giphy.com/media/f8nXruUBnxd5iyKPjc/giphy.gif" height="30">
 - I love to eat lot of fruits! <img src="https://media.giphy.com/media/lpsphcqutkFoDdabFc/giphy.gif" height="25"> 
-- I really like sleep! <img align=bottom src="https://media.giphy.com/media/ggQeuPhfzdBDdXIwSL/giphy.gif" height="35">
+- I really like sleep! <img src="https://media.giphy.com/media/UtgtmYjXVF8eldodGH/giphy.gif" height="35">
 
 ## Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://camo.githubusercontent.com/d01306c5c67fb7b92c290117e5c9921bbfa176be/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f707974686f6e2e737667" />
