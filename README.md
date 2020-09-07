@@ -1,5 +1,6 @@
 <h2> Hi there, I'm Cynthia <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+
 <p>- I'm a Student and Profissional in Data Science! </br>
 - I’m currently studying a master degree at UNICAMP! <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </br>
 - I’m currently working on Itau Unibanco! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
@@ -7,9 +8,9 @@
 - My Goals for 2020 is Learning more about Image Processing and Deep Learning! 🥅 </p>
 
 <h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... </h3> 
-<p>- I love pets! <img src="https://media.giphy.com/media/RNKDrLRQRXn9z5yHMW/giphy.gif" width="50"> </p>
-<p>- I love to eat lot of fruits! <img src="https://media.giphy.com/media/ohawPLVTuKoq4/giphy.gif" width="30"> </p>
-<p>- I really like sleep! <img src="https://media.giphy.com/media/JrXc72Pz2Ib1dBK13T/giphy.gif" width="30"> </p>
+<p>- I love pets! <img src="https://media.giphy.com/media/RNKDrLRQRXn9z5yHMW/giphy.gif" width="50"> </br>
+- I love to eat lot of fruits! <img src="https://media.giphy.com/media/ohawPLVTuKoq4/giphy.gif" width="30"> </br>
+- I really like sleep! <img src="https://media.giphy.com/media/JrXc72Pz2Ib1dBK13T/giphy.gif" width="30"> </p>
 
 ### Languages and Tools:
 
