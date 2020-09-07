@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Cynthia <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
+### Hi there, I'm Cynthia <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
@@ -8,7 +8,7 @@
 - I’m currently learning more about Machine learning, SQL Queries and Python! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="30"> 
 - My Goals for 2020 is learning more about Image Processing and Deep Learning! <img src="https://media.giphy.com/media/bQSX8MFxnyqti/giphy.gif" height="30">
 
-<h3> A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" height="50">  </h3> 
+### A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" height="50">
 
 - I love pets! <img src="https://media.giphy.com/media/U5becYGFWmWHRZeFOE/giphy.gif" height="30">
 - I love to eat lot of fruits! <img src="https://media.giphy.com/media/ihx4yWa0XQ8ERmaPts/giphy.gif" height="30"> 
