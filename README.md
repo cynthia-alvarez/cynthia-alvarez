@@ -8,13 +8,13 @@
 - I’m currently learning more about Machine learning, SQL Queries and Python! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="30"> 
 - My Goals for 2020 is learning more about Image Processing and Deep Learning! <img src="https://media.giphy.com/media/bQSX8MFxnyqti/giphy.gif" height="30">
 
-### A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" height="50">
+## A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" height="50">
 
 - I love pets! <img src="https://media.giphy.com/media/U5becYGFWmWHRZeFOE/giphy.gif" height="30">
 - I love to eat lot of fruits! <img src="https://media.giphy.com/media/ihx4yWa0XQ8ERmaPts/giphy.gif" height="30"> 
 - I really like sleep! <img src="https://media.giphy.com/media/JrXc72Pz2Ib1dBK13T/giphy.gif" height="30">
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -23,7 +23,7 @@
 
 <br/>
 
-### Connect with me:
+## Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-My%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lui-motta/)][linkedin]
 [![Github Badge](https://img.shields.io/badge/-My%20Personal%20Page-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucaslui)][website]
