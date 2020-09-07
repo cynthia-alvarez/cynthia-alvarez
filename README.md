@@ -1,7 +1,7 @@
 ### Hi there, I'm Cynthia <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 ## I'm a Student and Profissional in Data Science! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> I’m currently studying a master degree at UNICAMP
+<p>- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> I’m currently studying a master degree at UNICAMP </p>
 - 🔭 I’m currently working on Itau Unibanco!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 🌱 I’m currently learning more about Machine learning, SQL Queries and Python 🤣
 - 🥅 My Goals for 2020 is Learning more about Image Processing and Deep Learning
