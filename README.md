@@ -3,8 +3,8 @@
 
 <p>- I'm a Student and Profissional in Data Science! </p>
 <p>- I’m currently studying a master degree at UNICAMP! <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" height="30"> </p>
-<p>- I’m currently working on Itau Unibanco! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="30"> </p>
-<p>- I’m currently learning more about Machine learning, SQL Queries and Python!<img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" height="30"> </p>
+<p>- I’m currently working on Itau Unibanco! <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" height="30"> </p>
+<p>- I’m currently learning more about Machine learning, SQL Queries and Python! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="30"> </p>
 <p>- And my Goals for 2020 is Learning more about Image Processing and Deep Learning! <img src="https://media.giphy.com/media/bQSX8MFxnyqti/giphy.gif" height="30"></p>
 
 <h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... </h3> 
