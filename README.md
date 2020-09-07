@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 <p>- I'm a Student and Profissional in Data Science! </p>
-<p>- I’m currently working on Itau Unibanco! <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" height="30"> </p>
+<p style="margin-bottom=0;">- I’m currently working on Itau Unibanco! <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" height="30"> </p>
 <p>- I’m currently studying a master degree at UNICAMP! <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" height="30"> </p>
 <p>- I’m currently learning more about Machine learning, SQL Queries and Python! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="30"> </p>
 <p>- My Goals for 2020 is learning more about Image Processing and Deep Learning! <img src="https://media.giphy.com/media/bQSX8MFxnyqti/giphy.gif" height="30"></p>
