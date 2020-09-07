@@ -8,9 +8,7 @@
 - My Goals for 2020 is Learning more about Image Processing and Deep Learning! 🥅 </p>
 
 <h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... </h3> 
-<p>- I love pets! <img src="https://media.giphy.com/media/RNKDrLRQRXn9z5yHMW/giphy.gif" width="35"> </br>
-- I love to eat lot of fruits! <img src="https://media.giphy.com/media/ohawPLVTuKoq4/giphy.gif" width="35"> </br>
-- I really like sleep! <img src="https://media.giphy.com/media/JrXc72Pz2Ib1dBK13T/giphy.gif" width="35"> </p>
+<p>- I love pets! <img src="https://media.giphy.com/media/RNKDrLRQRXn9z5yHMW/giphy.gif" width="35"> </br> - I love to eat lot of fruits! <img src="https://media.giphy.com/media/ohawPLVTuKoq4/giphy.gif" width="35"> </br> - I really like sleep! <img src="https://media.giphy.com/media/JrXc72Pz2Ib1dBK13T/giphy.gif" width="35"> </p>
 
 ### Languages and Tools:
 
