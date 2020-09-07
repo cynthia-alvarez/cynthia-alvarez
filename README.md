@@ -5,7 +5,8 @@
 <p>- I’m currently working on Itau Unibanco!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 <p>- I’m currently learning more about Machine learning, SQL Queries and Python 🤣 🌱</p>
 <p>- My Goals for 2020 is Learning more about Image Processing and Deep Learning 🥅 </p>
-<p>- Fun fact: I love pets and also love to eat lot of fruits ⚡ </p>
+
+<h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... </h3>: I love pets and also love to eat lot of fruits ⚡ </p>
 
 ### Languages and Tools:
 
